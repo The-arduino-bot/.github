@@ -41,3 +41,5 @@ Chicken wings and Linux kernel,
 That's my game, ain't no hurdle.
 Working hard, code to debug,
 Fueling up, with wings to chug.
+
+https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
